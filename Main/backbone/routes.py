@@ -1,4 +1,4 @@
-from Main.backbone import webapp
+from backbone import webapp
 
 
 @webapp.route("/")
